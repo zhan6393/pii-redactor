@@ -1,0 +1,3 @@
+# empty — regex core has no dependencies
+# optional: spacy (adds PERSON/ORG/LOCATION via --use-spacy)
+# pip install spacy && python -m spacy download en_core_web_sm

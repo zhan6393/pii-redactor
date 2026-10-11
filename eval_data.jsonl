@@ -1,0 +1,14 @@
+{"text": "Contact Jane Doe at jane.doe@example.com for details.", "entities": [["jane.doe@example.com", "EMAIL"]]}
+{"text": "Call me at 416-555-0100 tomorrow.", "entities": [["416-555-0100", "PHONE"]]}
+{"text": "Backup number: +1 (647) 555-0198, or try 9055550147.", "entities": [["+1 (647) 555-0198", "PHONE"], ["9055550147", "PHONE"]]}
+{"text": "Charge 4111 1111 1111 1111 for the full amount.", "entities": [["4111 1111 1111 1111", "CREDIT_CARD"]]}
+{"text": "Card on file: 5500-0000-0000-0004 (expires 12/28).", "entities": [["5500-0000-0000-0004", "CREDIT_CARD"]]}
+{"text": "Her SIN is 123-456-789 for the tax form.", "entities": [["123-456-789", "SIN"]]}
+{"text": "SIN without separators: 123456789.", "entities": [["123456789", "SIN"]]}
+{"text": "US payroll needs SSN 987-65-4321.", "entities": [["987-65-4321", "SSN"]]}
+{"text": "Email bob.smith@acme-corp.com and CC finance@acme-corp.com on it.", "entities": [["bob.smith@acme-corp.com", "EMAIL"], ["finance@acme-corp.com", "EMAIL"]]}
+{"text": "Invoice 2024-001 for $249.99 is due Friday.", "entities": []}
+{"text": "The verification code is 48291, valid for 10 minutes.", "entities": []}
+{"text": "Reach the on-call at (416) 555-0111; escalate to +1 416 555 0199 if no answer.", "entities": [["(416) 555-0111", "PHONE"], ["+1 416 555 0199", "PHONE"]]}
+{"text": "Card 4111111111111111 was declined; SIN 987654321 on the application.", "entities": [["4111111111111111", "CREDIT_CARD"], ["987654321", "SIN"]]}
+{"text": "Send the contract to legal@example.org before 5pm.", "entities": [["legal@example.org", "EMAIL"]]}

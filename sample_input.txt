@@ -1,0 +1,15 @@
+Hi team,
+
+Please process the refund for Jane Doe (jane.doe@example.com). Her phone number
+is 416-555-0132 and her backup contact is +1 (647) 555-0198.
+
+Her credit card on file ends with the full number 4111 1111 1111 1111 — please
+charge the outstanding invoice of $249.99 to it.
+
+For tax purposes we need her SIN 123-456-789 on record. Her colleague in the
+US provided SSN 987-65-4321 for the cross-border form.
+
+You can reach her manager at robert.smith@acme-corp.com or 9055550147.
+
+Thanks,
+Support Team

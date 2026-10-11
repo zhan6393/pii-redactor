@@ -1,0 +1,15 @@
+Hi team,
+
+Please process the refund for Jane Doe ([REDACTED:EMAIL]). Her phone number
+is [REDACTED:PHONE] and her backup contact is [REDACTED:PHONE].
+
+Her credit card on file ends with the full number [REDACTED:CREDIT_CARD] — please
+charge the outstanding invoice of $249.99 to it.
+
+For tax purposes we need her SIN [REDACTED:SIN] on record. Her colleague in the
+US provided SSN [REDACTED:SSN] for the cross-border form.
+
+You can reach her manager at [REDACTED:EMAIL] or [REDACTED:PHONE].
+
+Thanks,
+Support Team
